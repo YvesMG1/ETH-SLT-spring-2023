@@ -1,7 +1,5 @@
 # Statistical Learning Theory (SLT) Assignments
 
-## Short Description
-
 This repository showcases my implementations for the coding assignments of the Statistical Learning Theory course, Spring Semester 2023. 
 
 ## Assignments Overview
