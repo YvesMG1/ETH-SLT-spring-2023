@@ -9,9 +9,9 @@ This repository showcases my implementations for the coding assignments of the S
 | Assignment # | Assignment Headline        | Assignment Description                                    | Grade |
 |--------------|----------------------------|------------------------------------------------------------|-------|
 | 1            | Sampling     | Markov Chain Monte Carlo (MCMC) sampling procedures applied to a image reconstruction problem (Ising model) and the traveling salesman problem (TSP). | 5.9    |
-| 2            | Deterministic Annealing | Deterministic Annealing algorithm by [ref]("https://ieeexplore.ieee.org/document/726788") applied to clustering problems. | 5.75   |
-| 3            | Classification Techniques  | Exploration of classification algorithms such as SVMs, decision trees, and k-NN in SLT context. | 6.0    |
-| 4            | Neural Networks and Deep Learning | Application of neural networks in SLT, including training deep learning models for image recognition tasks. | 6.0     |
-| 5            | Ensemble Methods           | Implementation of ensemble learning methods like bagging, boosting, and random forests to improve prediction accuracy. | Not graded     |
+| 2            | Deterministic Annealing | Deterministic Annealing algorithm by [ref](https://ieeexplore.ieee.org/document/726788) applied to clustering problems. | 5.75   |
+| 3            | Histogram Clustering  | Segmenting Images using Histogram Clustering. | 6.0    |
+| 4            | Constant Shift Embedding (CSE) | Applying CSE, a technique for restating pairwise clustering problems in vector spaces while preserving the cluster structure, to cluster the groups of research community members based on the email correspondence matrix. | 6.0     |
+| 5            | Mean Field Approximation (MFA) | Applying MFA to the Ising model and Smooth K-means. | Not graded     |
 
 
